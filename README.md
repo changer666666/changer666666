@@ -16,7 +16,5 @@ I'm a **Software Engineer** passionate about large-scale systems, API reliabilit
 - LLM-based API developer assistance  
 
 #### 📫 Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/chandrikaliu)  
-- ✉️ chang.dev.contact@gmail.com  
-
-> “Build things that scale — and last.”
+- 💼 [LinkedIn](https://www.linkedin.com/in/chang-liu-528779192/)  
+- ✉️ changer666666@gmail.com 
