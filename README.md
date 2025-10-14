@@ -1,16 +1,22 @@
-## Hi there 👋
+### 👋 Hi, I'm Chang Liu
 
-<!--
-**changer666666/changer666666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineer** passionate about large-scale systems, API reliability, and applied machine learning.
 
-Here are some ideas to get you started:
+- 💼 **Ex-Meta Ads Infrastructure Engineer** — built scalable APIs and data models powering Ads delivery and Marketing API.
+- ⚙️ Experienced in **Distributed Systems**, **API Design**, **SLI/SLO Reliability**, **Async Framework**, and **Webhook/Event-driven Architecture**.
+- 💡 Focused on **Ads Platform**, **AI infra**, and **Developer Productivity**.
+- 🌱 Currently exploring startup-scale AI platforms and open data infra tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🧩 Tech Stack
+`Python` · `PHP` · `React` · `GraphQL` · `gRPC` · `Thrift` · `Docker` · `Kubernetes` · `PyTorch`
+
+#### 🧠 Interests
+- System design for reliability and scale  
+- Ad delivery optimization and data infrastructure  
+- LLM-based API developer assistance  
+
+#### 📫 Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/chandrikaliu)  
+- ✉️ chang.dev.contact@gmail.com  
+
+> “Build things that scale — and last.”
