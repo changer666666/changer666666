@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Chang Liu
+### 👋 Hi, I'm Julie Liu
 
 I'm a **Software Engineer** passionate about large-scale systems, API reliability, and applied machine learning.
 
