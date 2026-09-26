@@ -16,5 +16,4 @@ I'm a **Software Engineer** passionate about large-scale systems, API reliabilit
 - LLM-based API developer assistance  
 
 #### 📫 Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/chang-liu-528779192/)  
-- ✉️ changer666666@gmail.com 
+- 💼 [LinkedIn](https://www.linkedin.com/in/julie-liu-528779192/)  
